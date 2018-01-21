@@ -1,0 +1,11 @@
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.deps.json
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.dll
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.pdb
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.csproj.CoreCompileInputs.cache
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.App.xaml.g.cs
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.MainPage.xaml.g.cs
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.AssemblyInfoInputs.cache
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.AssemblyInfo.cs
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.dll
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.pdb
+E:\Programacion\Xamarin\TipCalculator\TipCalculator\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.csprojResolveAssemblyReference.cache
